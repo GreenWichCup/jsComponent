@@ -1,0 +1,2 @@
+# jsComponent
+bricks
